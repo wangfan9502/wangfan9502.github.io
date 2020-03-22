@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/03/19/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+    <title>About Me</title>
+    <url>/2020/03/10/About%20Me/</url>
+    <content><![CDATA[<p>I am Fan Wang from Qingdao,  a master student majoring in Nano materials and technology from <a href="http://www.nanoscience.gatech.edu" target="_blank" rel="noopener">professor Zhonglin Wang’s nanoscience group</a>, Beijing Institute of Nanoenergy and Nanosystems  at the<a href="http://www.ucas.ac.cn" target="_blank" rel="noopener"> University of Chinese Academy of Sciences</a> in China. I am writing to express my interest in pursuing PhD training in your group, with funded by China Scholarship Council, after receiving my Master’s degree in June of 2021.<br>I am Vinodh Reddy Chennu from Telangana, India. I currently live in Hyderabad.<br>This is what I (Vinodh Reddy) look like:<br>I have completed my B.E.(Hons.) in Mechanical Engineering from BITS Pilani, Hyderabad Campus in 2015 and M.B.A in Business Analytics at University of Hyderabad.</p>
+<p>I’m a native Chinese language speaker and can write and speak in English.<br>I am the former Digital marketing Executive ‘Mu BIT Private Limited‘, a Digital Marketing and Web Development Company started in 2017 at Hyderabad, India.<br>I’m the former Editor-in-Chief of ‘ME Mechanical‘ portal started in 2014, where I and our team published hundreds of articles on various engineering topics.<br>I also share my knowledge on general studies topics for the aspirants preparing for the various competitive examination in India by publishing articles at ‘EduGeneral‘.</p>
+<p>I have done many online courses from Lynda, Edx, NPTEL, Coursera, etc., Here is the list of few online certifications that I have earned to date:</p>
+<ol>
+<li>Startup India Learning Program</li>
+<li>Bing Ads Accreditation Certificate</li>
+<li>Digital Unlocked Certification</li>
+<li>Google Analytics Certification</li>
+<li>Google AdWords Certification on Search, Display, Shopping, Mobile and Video.</li>
+<li>Digital Sales Certification<br>I usually write articles on technology, coding, how to on VRC Works Blog:<br>▪ To improve my writing skills: Sometimes I write terribly, I hope writing articles on my blog/websites will help me to develop English language writing skills.<br>▪ To make myself more productive: I have become addicted to watching movies, I want to stop them. Writing articles on my blogs/websites will hopefully make me learn new things on the internet.<br>▪ To share my growing knowledge: I will be writing articles mostly on technology and education topics.<br>Till now I have contributed 600+ articles on various websites and blogs.<br>Apart from content writing on blogs, I also work on SEO (Search Engine Optimization), SEM (Search Engine Marketing) and Web development (WordPress Development) projects with the clients across the globe.<br>You can connect with me on any of the following social networks on Twitter @vinodhchennu,  Facebook page</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello</title>
+    <url>/2019/10/22/Hello/</url>
+    <content><![CDATA[<h1 id="Hello"><a href="#Hello" class="headerlink" title="Hello!"></a><strong>Hello!</strong></h1><p>Welcome to my personal website! This site contains a lot of information about my research projects (past and ongoing), some information about my personal life, and an increasing number of blogs about things and topics that I find exciting. I hope you will find something interesting here. Enjoy. </p>
 ]]></content>
   </entry>
 </search>
