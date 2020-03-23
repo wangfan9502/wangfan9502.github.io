@@ -111,9 +111,9 @@
       <category term="Travel" scheme="http://yoursite.com/categories/Travel/"/>
     
     
-      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
-    
       <category term="Travel" scheme="http://yoursite.com/tags/Travel/"/>
+    
+      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
     
   </entry>
   
