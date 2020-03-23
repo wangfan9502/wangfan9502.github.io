@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Fan WANG</title>
-  
+  <icon>https://www.gravatar.com/avatar/ca12219dbcdd089e5cb15d358762f6ac</icon>
   <subtitle>Personal Website</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-22T16:24:58.000Z</updated>
+  <updated>2020-03-23T07:40:09.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>By Fan WANG(wangfan@binn.cas.cn)</name>
-    
+    <name>By Fan WANG</name>
+    <email>wangfan@binn.cas.cn</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Research</title>
-    <link href="http://yoursite.com/2020/03/22/Research/"/>
-    <id>http://yoursite.com/2020/03/22/Research/</id>
-    <published>2020-03-22T14:38:51.000Z</published>
-    <updated>2020-03-22T16:24:58.000Z</updated>
+    <title>Hello</title>
+    <link href="http://yoursite.com/2020/03/22/Hello/"/>
+    <id>http://yoursite.com/2020/03/22/Hello/</id>
+    <published>2020-03-22T12:20:42.000Z</published>
+    <updated>2020-03-23T07:40:09.000Z</updated>
     
     <summary type="html">
     
@@ -29,10 +29,7 @@
       
         
         
-          &lt;h1 id=&quot;My-Research&quot;&gt;&lt;a href=&quot;#My-Research&quot; class=&quot;headerlink&quot; title=&quot;My Research&quot;&gt;&lt;/a&gt;My Research&lt;/h1&gt;&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;RESEARCH
+          &lt;h1 id=&quot;Hello&quot;&gt;&lt;a href=&quot;#Hello&quot; class=&quot;headerlink&quot; title=&quot;Hello!&quot;&gt;&lt;/a&gt;&lt;strong&gt;Hello!&lt;/strong&gt;&lt;/h1&gt;&lt;h2
         
       
     
@@ -40,67 +37,22 @@
     
     
     
-  </entry>
-  
-  <entry>
-    <title>test-2</title>
-    <link href="http://yoursite.com/2020/03/22/test-2/"/>
-    <id>http://yoursite.com/2020/03/22/test-2/</id>
-    <published>2020-03-22T14:16:50.000Z</published>
-    <updated>2020-03-22T14:21:40.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;欢迎使用-Cmd-Markdown-编辑阅读器&quot;&gt;&lt;a href=&quot;#欢迎使用-Cmd-Markdown-编辑阅读器&quot; class=&quot;headerlink&quot; title=&quot;欢迎使用 Cmd Markdown 编辑阅读器&quot;&gt;&lt;/a&gt;欢迎使用 Cmd
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2020/03/22/test/"/>
-    <id>http://yoursite.com/2020/03/22/test/</id>
-    <published>2020-03-22T13:49:34.000Z</published>
-    <updated>2020-03-22T14:41:31.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;Research-Interest&quot;&gt;&lt;a href=&quot;#Research-Interest&quot; class=&quot;headerlink&quot; title=&quot;Research Interest&quot;&gt;&lt;/a&gt;Research Interest&lt;/h1&gt;&lt;hr&gt;
-&lt;h3 id=&quot;1-斜体和粗体&quot;&gt;&lt;a href=&quot;#1-斜体和粗体&quot; class=&quot;headerlink&quot; title=&quot;1. 斜体和粗体&quot;&gt;&lt;/a&gt;1. 斜体和粗体&lt;/h3&gt;&lt;p&gt;使用 * 和 ** 表示斜体和粗体。&lt;/p&gt;
-&lt;p&gt;示例：&lt;/p&gt;
-&lt;p&gt;这是 &lt;em&gt;斜体&lt;/em&gt;，这是 &lt;strong&gt;粗体&lt;/strong&gt;。&lt;/p&gt;
-    
-    </summary>
-    
-    
+      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
     
   </entry>
   
   <entry>
     <title>About Me</title>
-    <link href="http://yoursite.com/2020/03/10/About%20Me/"/>
-    <id>http://yoursite.com/2020/03/10/About%20Me/</id>
-    <published>2020-03-10T10:00:45.000Z</published>
-    <updated>2020-03-22T16:43:58.000Z</updated>
+    <link href="http://yoursite.com/2020/03/22/About%20Me/"/>
+    <id>http://yoursite.com/2020/03/22/About%20Me/</id>
+    <published>2020-03-22T10:00:45.000Z</published>
+    <updated>2020-03-23T07:40:23.000Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;About-Me&quot;&gt;&lt;a href=&quot;#About-Me&quot; class=&quot;headerlink&quot; title=&quot;About Me&quot;&gt;&lt;/a&gt;About Me&lt;/h1&gt;&lt;p&gt;I am Fan Wang, a master student majoring in
-        
-      
+      &lt;img src=&quot; https://pic.downk.cc/item/5e785acc5c5609112980542d.jpg&quot; alt=&quot;avatar&quot; width=&quot;300&quot; /&gt;
+
+&lt;p&gt;I am Fan Wang, a master student majoring in Nano materials and technology from professor Zhonglin Wang’s nanoscience group, Beijing Institute of Nanoenergy and Nanosystems  at the University of Chinese Academy of Sciences in China.&lt;/p&gt;
     
     </summary>
     
@@ -109,11 +61,64 @@
   </entry>
   
   <entry>
-    <title>Hello</title>
-    <link href="http://yoursite.com/2019/10/22/Hello/"/>
-    <id>http://yoursite.com/2019/10/22/Hello/</id>
-    <published>2019-10-22T12:20:42.000Z</published>
-    <updated>2020-03-22T16:46:38.000Z</updated>
+    <title>Research</title>
+    <link href="http://yoursite.com/2020/03/21/Research/"/>
+    <id>http://yoursite.com/2020/03/21/Research/</id>
+    <published>2020-03-21T14:38:51.000Z</published>
+    <updated>2020-03-23T07:40:30.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;My-Research&quot;&gt;&lt;a href=&quot;#My-Research&quot; class=&quot;headerlink&quot; title=&quot;My Research&quot;&gt;&lt;/a&gt;My Research&lt;/h1&gt;&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;RESEARCH INTREST&lt;/li&gt;
+&lt;li&gt;RESEARCHES AND PROJECTS&lt;/li&gt;
+&lt;li&gt;PAPERS AND PATENTS&lt;/li&gt;
+&lt;li&gt;CONFERENCES&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;Reseach-Interest&quot;&gt;&lt;a href=&quot;#Reseach-Interest&quot; class=&quot;headerlink&quot; title=&quot;Reseach Interest&quot;&gt;&lt;/a&gt;Reseach Interest&lt;/h2&gt;&lt;p&gt;Using advanced technology to help patients is the motivation for my research. Minimally invasive surgery minimizes the trauma of patients compared with traditional open surgery. Target drug delivery enhances the drug efficacy while weakens unwanted side effects compared with conventional systemic administration. My future research effort will concentrate on developing medical miniature robots that work in vivo and in vitro, which can be potentially deployed in minimally invasive diagnosis and therapeutics. Issues such as biocompatibility and biodegradability will be taken into consideration in the design of the medical robots. When deployed inside human bodies, the feedback information of the robots is limited and obscured, in which scenarios accurate and reliable actuation and control of these robots are challenging and will be investigated in my following research.&lt;/p&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>About Water Team</title>
+    <link href="http://yoursite.com/2020/03/20/About-RoboCup/"/>
+    <id>http://yoursite.com/2020/03/20/About-RoboCup/</id>
+    <published>2020-03-20T05:31:01.000Z</published>
+    <updated>2020-03-23T07:40:48.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://pic.downk.cc/item/5e784c3a5c56091129726e21.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;Our-Team&quot;&gt;&lt;a href=&quot;#Our-Team&quot; class=&quot;headerlink&quot; title=&quot;Our Team&quot;&gt;&lt;/a&gt;Our Team&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.teamwater.cn/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Team Water&lt;/a&gt; is a Middle Size League Team of Beijing Information Science &amp;amp; Technology University. The team was founded in 2003.Water has participated in the China Open from 2006 to 2019, World Championships from 2010 to 2019. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;Our-Dream&quot;&gt;&lt;a href=&quot;#Our-Dream&quot; class=&quot;headerlink&quot; title=&quot;Our Dream&quot;&gt;&lt;/a&gt;Our Dream&lt;/h1&gt;&lt;p&gt;We proposed that the ultimate goal of the RoboCup Initiative to be stated as follows:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;By the middle of the 21st century, a team of fully autonomous humanoid robot soccer players shall win a soccer game, complying with the official rules of FIFA, against the winner of the most recent World Cup.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>About Traveling</title>
+    <link href="http://yoursite.com/2018/11/21/About-Traveling/"/>
+    <id>http://yoursite.com/2018/11/21/About-Traveling/</id>
+    <published>2018-11-20T16:17:37.000Z</published>
+    <updated>2020-03-23T02:20:39.000Z</updated>
     
     <summary type="html">
     
@@ -121,13 +126,17 @@
       
         
         
-          &lt;h1 id=&quot;Hello&quot;&gt;&lt;a href=&quot;#Hello&quot; class=&quot;headerlink&quot; title=&quot;Hello!&quot;&gt;&lt;/a&gt;&lt;strong&gt;Hello!&lt;/strong&gt;&lt;/h1&gt;&lt;h3
+          &lt;h1 id=&quot;A-Trip-Without-Plan&quot;&gt;&lt;a href=&quot;#A-Trip-Without-Plan&quot; class=&quot;headerlink&quot; title=&quot;A Trip Without Plan&quot;&gt;&lt;/a&gt;A Trip Without
         
       
     
     </summary>
     
     
+      <category term="Travel" scheme="http://yoursite.com/categories/Travel/"/>
+    
+    
+      <category term="Travel" scheme="http://yoursite.com/tags/Travel/"/>
     
       <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
     

@@ -1,8 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello</title>
+    <url>/2020/03/22/Hello/</url>
+    <content><![CDATA[<h1 id="Hello"><a href="#Hello" class="headerlink" title="Hello!"></a><strong>Hello!</strong></h1><h2 id="Welcome-to-my-personal-website-This-is-my-first-website-build-by-myself-This-site-contains-a-lot-of-information-about-my-research-projects-past-and-ongoing-some-information-about-my-personal-life-and-an-increasing-number-of-blogs-about-things-and-topics-that-I-find-exciting-I-hope-you-will-find-something-interesting-here"><a href="#Welcome-to-my-personal-website-This-is-my-first-website-build-by-myself-This-site-contains-a-lot-of-information-about-my-research-projects-past-and-ongoing-some-information-about-my-personal-life-and-an-increasing-number-of-blogs-about-things-and-topics-that-I-find-exciting-I-hope-you-will-find-something-interesting-here" class="headerlink" title="Welcome to my personal website! This is my first website build by myself. This site contains a lot of information about my research projects (past and ongoing), some information about my personal life, and an increasing number of blogs about things and topics that I find exciting. I hope you will find something interesting here."></a>Welcome to my personal website! This is my first website build by myself. This site contains a lot of information about my research projects (past and ongoing), some information about my personal life, and an increasing number of blogs about things and topics that I find exciting. I hope you will find something interesting here.</h2>]]></content>
+      <tags>
+        <tag>Life</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/2020/03/22/About%20Me/</url>
+    <content><![CDATA[<img src=" https://pic.downk.cc/item/5e785acc5c5609112980542d.jpg" alt="avatar" width="300" />
+
+<p>I am Fan Wang, a master student majoring in Nano materials and technology from professor Zhonglin Wang’s nanoscience group, Beijing Institute of Nanoenergy and Nanosystems  at the University of Chinese Academy of Sciences in China.</p>
+<a id="more"></a>
+<h1 id="Skills-amp-Hobbies"><a href="#Skills-amp-Hobbies" class="headerlink" title="Skills &amp; Hobbies"></a>Skills &amp; Hobbies</h1><ul>
+<li><strong>Circuit design and Programming</strong> for Microcontrollers or NAO robot via Python or C++</li>
+<li>Skilled operation of the <strong>Atomic Force Microscope</strong>, <strong>ICP</strong>, <strong>Laser direct writing</strong>, <strong>Atomic Layer Deposition</strong>, Physical Vapor Deposition, Plasma etching Mask Aligner, Raman Spectra, FTIR Spectrometer etc.</li>
+<li>Software: <strong>NI LabView</strong>，3D MAX, MATLAB，<strong>Mathematica</strong>, <strong>COMSOL</strong> etc.</li>
+<li><strong>Photography</strong>, hiking and travel, <strong>Calligraphy</strong></li>
+</ul>
+<h1 id="Working-Experience"><a href="#Working-Experience" class="headerlink" title="Working Experience"></a>Working Experience</h1><ul>
+<li>06/2017-08/2017     Horizon Robotics in Beijing| Internship<br>Debugged and managed the computer vision analysis data</li>
+<li>10/2018-07/2019     Teaching Assistant of Prof. Wang Weitian for Chinese Calligraphy Class</li>
+</ul>
+<h1 id="Current-Position"><a href="#Current-Position" class="headerlink" title="Current Position"></a>Current Position</h1><p>A Postgraduate in professor <a href="http://www.nanoscience.gatech.edu" target="_blank" rel="noopener">Zhonglin WANG group</a> in Beijing Institute of Nanoenergy and Nanosystems, Chinese Academy and Sciences.</p>
+<h1 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h1><p>I did my undergraduate study in University of Science &amp; Technology Beijing (<strong>USTB</strong>) and Beijing Information &amp; Science Technology University(<strong>BISTU</strong>), majoring in Mechanical Engineering and minoring in Intelligent Robotic Technology. I was lucky enough to be selected as one of the first group of students for “Experimental Class” (实验班), an elite title accompanied by hell-level training in mathematics and robotic. I finished the 1.5 year of intensified basic science training  and chose to major in Robot Technology in the rest of my program. My thesis project was about mechanical structure design of rehabilitation Robot.</p>
+<p>In 2018，I continued my study in professor <a href="http://www.nanoscience.gatech.edu" target="_blank" rel="noopener">Zhonglin WANG group</a> in Beijing Institute of Nanoenergy and Nanosystems, Chinese Academy and Sciences, China as a Master of Science student. My research project is about Nanogenetor, Bio-inspired Intelligent Materials, MEMS and Flexible Electronics.  It is intensive, even exhausting sometimes. I work with the best minds in this field and have access to the best instruments I can imagine. So, nothing to complain.<br>In future, I want to apply for PhD  to do more valuable, interesting, challenging and interdisciplinary research about Wearable Electronics based my majored Nanogenerator to solve some medical problems in my PhD study.<strong>1-4</strong></p>
+<h1 id="Awards-and-Honors"><a href="#Awards-and-Honors" class="headerlink" title="Awards and Honors"></a>Awards and Honors</h1><table>
+<thead>
+<tr>
+<th>Time</th>
+<th align="center">Awards&amp;Honors</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>10/2019</td>
+<td align="center">2019 National Scholarship for Graduate Students (Merit-based)</td>
+</tr>
+<tr>
+<td>07/2019</td>
+<td align="center">Holder of Third Prize of 2019 UCAS Innovation and Entrepreneurship Training Competition</td>
+</tr>
+<tr>
+<td>05/2019</td>
+<td align="center">The Poster of the 4th International Conference on Nanoenergy and Nanosystems 2019</td>
+</tr>
+<tr>
+<td>06/2018</td>
+<td align="center">Outstanding Graduates Awards in BISTU in 2018th (Merit-based)</td>
+</tr>
+<tr>
+<td>06/2018</td>
+<td align="center">Holder of Second Prized of Photography Competition of BISTU</td>
+</tr>
+<tr>
+<td>10/2017</td>
+<td align="center">Holder of First Prize LabView Programming Contest of BISTU</td>
+</tr>
+<tr>
+<td>03/2017</td>
+<td align="center">Holder of Second Prize of Beijing University Technology Innovation Project</td>
+</tr>
+<tr>
+<td>07/2017</td>
+<td align="center">Champion of RoboCup Middle Size League in Nagoya, Japan</td>
+</tr>
+<tr>
+<td>06/2016</td>
+<td align="center">Holder of Third Prize of China Undergraduate Mathematical Contest in Modeling</td>
+</tr>
+<tr>
+<td>12/2015</td>
+<td align="center">Special Award of North China Five Robots Competition</td>
+</tr>
+<tr>
+<td>09/2015</td>
+<td align="center">Holder of Bao Gang Education Scholarship (Merit-based)</td>
+</tr>
+</tbody></table>
+<h1 id="Activities-amp-Volunteers"><a href="#Activities-amp-Volunteers" class="headerlink" title="Activities &amp; Volunteers"></a>Activities &amp; Volunteers</h1><table>
+<thead>
+<tr>
+<th>Time</th>
+<th align="center">Activities&amp;Volunteers</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>02/2020</td>
+<td align="center">Collected donations in the street for the people of Wuhan to against COVID-19</td>
+</tr>
+<tr>
+<td>10/2018</td>
+<td align="center">Co-founded “Yantai Painting and Calligraphy” Association Worked as president, responsible for handwriting teaching</td>
+</tr>
+<tr>
+<td>09/2017</td>
+<td align="center">Participated in volunteer training activities of 2017 Beijing Marathon</td>
+</tr>
+<tr>
+<td>10/2014-09/2017</td>
+<td align="center">Took part in Water Robot Team（Sponsored by Intel), Worked as main member to take part in robot competitions, Rated as the “Excellent Member”</td>
+</tr>
+</tbody></table>
+<h1 id="In-Future"><a href="#In-Future" class="headerlink" title="In Future"></a>In Future</h1><p>I will write articles on my new research, life and travel in this website regularly.<br>▪ To improve my writing skills: Sometimes I write terribly, I hope writing articles on my blog/websites will help me to develop English language writing skills.<br>▪ To make myself more productive: I have become addicted to watching movies, I want to stop them. Writing articles on my blogs/websites will hopefully make me learn new things on the internet.<br>▪ To share my growing knowledge: I will be writing articles mostly on technology and education topics.<br><img src="https://pic.downk.cc/item/5e7856a75c560911297be018.jpg" alt="Chinese Academy and Sciences" title="Chinese Academy and Sciences"><img src="https://pic.downk.cc/item/5e7856745c560911297baf36.jpg" alt="Beijing Institute of Nanoenergy and Nanosystems" title="Beijing Institute of Nanoenergy and Nanosystems"></p>
+<h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference:"></a>Reference:</h1><ol>
+<li>Guo, H.;  Pu, X.;   Chen, J.;   Meng, Y.;   Yeh, M.;   Liu, G.;   Tang, Q.;   Chen, B.; Liu, D.;  Qi, S.;  Wu, C.;  Hu, C.;  Wang, J.;  Wang, Z., A highly sensitive, self-powered triboelectric auditory sensor for socialrobotics and hearing aids, Science Robotics 2018, 3, eaat2516</li>
+<li>Zhao, L.;  Li, H.;  Meng, J.;  Wang, A. C.;  Tan, P.;  Zou, Y.;  Yuan, Z.;  Lu, J.;  Pan, C.;  Fan, Y.;  Zhang, Y.;  Zhang, Y.;  Wang, Z. L.; Li, Z., Reversible Conversion between Schottky and Ohmic Contacts for Highly Sensitive, Multifunctional Biosensors. Advanced Functional Materials 2019, 30 (5).</li>
+<li>Ouyang, H.;  Liu, Z.;  Li, N.;  Shi, B.;  Zou, Y.;  Xie, F.;  Ma, Y.;  Li, Z.;  Li, H.;  Zheng, Q.;  Qu, X.;  Fan, Y.;  Wang, Z. L.;  Zhang, H.; Li, Z., Symbiotic cardiac pacemaker. Nat Commun 2019, 10 (1), 1821.</li>
+<li>Li, Z.;  Zhu, G.;  Yang, R.;  Wang, A. C.; Wang, Z. L., Muscle-driven in vivo nanogenerator. Adv Mater 2010, 22 (23), 2534-7.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Research</title>
-    <url>/2020/03/22/Research/</url>
+    <url>/2020/03/21/Research/</url>
     <content><![CDATA[<h1 id="My-Research"><a href="#My-Research" class="headerlink" title="My Research"></a>My Research</h1><hr>
 <blockquote>
 <ul>
@@ -15,6 +128,8 @@
 <hr>
 <h2 id="Reseach-Interest"><a href="#Reseach-Interest" class="headerlink" title="Reseach Interest"></a>Reseach Interest</h2><p>Using advanced technology to help patients is the motivation for my research. Minimally invasive surgery minimizes the trauma of patients compared with traditional open surgery. Target drug delivery enhances the drug efficacy while weakens unwanted side effects compared with conventional systemic administration. My future research effort will concentrate on developing medical miniature robots that work in vivo and in vitro, which can be potentially deployed in minimally invasive diagnosis and therapeutics. Issues such as biocompatibility and biodegradability will be taken into consideration in the design of the medical robots. When deployed inside human bodies, the feedback information of the robots is limited and obscured, in which scenarios accurate and reliable actuation and control of these robots are challenging and will be investigated in my following research.</p>
 <hr>
+<a id="more"></a>
+
 <h2 id="Researches-and-Projects"><a href="#Researches-and-Projects" class="headerlink" title="Researches and Projects"></a>Researches and Projects</h2><ul>
 <li><input checked="" disabled="" type="checkbox"> High Current Output of TENGs by Power Promotion and Management toward Self-powered Systems |Leader</li>
 <li><input checked="" disabled="" type="checkbox"> Self-powered Sensor for Identifying Noncontact Motions |Leader</li>
@@ -43,6 +158,7 @@
 <li>12/2015—Special Award of North China Five Robots Competition</li>
 <li>09/2015—Holder of Bao Gang Education Scholarship (Merit-based) </li>
 </ul>
+<hr>
 <h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="">1</a>  Guo, H.;  Pu, X.;   Chen, J.;   Meng, Y.;   Yeh, M.;   Liu, G.;   Tang, Q.;   Chen, B.; Liu, D.;  Qi, S.;  Wu, C.;  Hu, C.;  Wang, J.;  Wang, Z., A highly sensitive, self-powered triboelectric auditory sensor for socialrobotics and hearing aids, Science Robotics 2018, 3, eaat2516</p>
 <p><a href="">2</a>   Zhao, L.;  Li, H.;  Meng, J.;  Wang, A. C.;  Tan, P.;  Zou, Y.;  Yuan, Z.;  Lu, J.;  Pan, C.;  Fan, Y.;  Zhang, Y.;  Zhang, Y.;  Wang, Z. L.; Li, Z., Reversible Conversion between Schottky and Ohmic Contacts for Highly Sensitive, Multifunctional Biosensors. Advanced Functional Materials 2019, 30 (5).</p>
 <p><a href="">3</a> Ouyang, H.;  Liu, Z.;  Li, N.;  Shi, B.;  Zou, Y.;  Xie, F.;  Ma, Y.;  Li, Z.;  Li, H.;  Zheng, Q.;  Qu, X.;  Fan, Y.;  Wang, Z. L.;  Zhang, H.; Li, Z., Symbiotic cardiac pacemaker. Nat Commun 2019, 10 (1), 1821.</p>
@@ -50,298 +166,51 @@
 ]]></content>
   </entry>
   <entry>
-    <title>test-2</title>
-    <url>/2020/03/22/test-2/</url>
-    <content><![CDATA[<h1 id="欢迎使用-Cmd-Markdown-编辑阅读器"><a href="#欢迎使用-Cmd-Markdown-编辑阅读器" class="headerlink" title="欢迎使用 Cmd Markdown 编辑阅读器"></a>欢迎使用 Cmd Markdown 编辑阅读器</h1><hr>
-<p>我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，<strong>Cmd Markdown</strong> 是我们给出的答案 —— 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown：</p>
+    <title>About Water Team</title>
+    <url>/2020/03/20/About-RoboCup/</url>
+    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5e784c3a5c56091129726e21.jpg" alt=""></p>
+<h1 id="Our-Team"><a href="#Our-Team" class="headerlink" title="Our Team"></a>Our Team</h1><blockquote>
+<p><a href="https://www.teamwater.cn/" target="_blank" rel="noopener">Team Water</a> is a Middle Size League Team of Beijing Information Science &amp; Technology University. The team was founded in 2003.Water has participated in the China Open from 2006 to 2019, World Championships from 2010 to 2019. </p>
+</blockquote>
+<hr>
+<h1 id="Our-Dream"><a href="#Our-Dream" class="headerlink" title="Our Dream"></a>Our Dream</h1><p>We proposed that the ultimate goal of the RoboCup Initiative to be stated as follows:</p>
 <blockquote>
-<ul>
-<li>整理知识，学习笔记</li>
-<li>发布日记，杂文，所见所想</li>
-<li>撰写发布技术文稿（代码支持）</li>
-<li>撰写发布学术论文（LaTeX 公式支持）</li>
-</ul>
+<p>By the middle of the 21st century, a team of fully autonomous humanoid robot soccer players shall win a soccer game, complying with the official rules of FIFA, against the winner of the most recent World Cup.</p>
 </blockquote>
-<p><img src="http://n1-q.mafengwo.net/s15/M00/F9/C3/CoUBGV53cIeABuWzAAw_NiylLqo864.JPG?imageView2%2F2%2Fw%2F700%2Fh%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90" alt="cmd-markdown-logo"></p>
-<p>除了您现在看到的这个 Cmd Markdown 在线版本，您还可以前往以下网址下载：</p>
-<h3 id="Windows-Mac-Linux-全平台客户端"><a href="#Windows-Mac-Linux-全平台客户端" class="headerlink" title="Windows/Mac/Linux 全平台客户端"></a><a href="https://www.zybuluo.com/cmd/" target="_blank" rel="noopener">Windows/Mac/Linux 全平台客户端</a></h3><blockquote>
-<p>请保留此份 Cmd Markdown 的欢迎稿兼使用说明，如需撰写新稿件，点击顶部工具栏右侧的 <i class="icon-file"></i> <strong>新文稿</strong> 或者使用快捷键 <code>Ctrl+Alt+N</code>。</p>
-</blockquote>
-<hr>
-<h2 id="什么是-Markdown"><a href="#什么是-Markdown" class="headerlink" title="什么是 Markdown"></a>什么是 Markdown</h2><p>Markdown 是一种方便记忆、书写的纯文本标记语言，用户可以使用这些标记符号以最小的输入代价生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，<strong>粗体</strong> 或者 <em>斜体</em> 某些文字，更棒的是，它还可以</p>
-<h3 id="1-制作一份待办事宜-Todo-列表"><a href="#1-制作一份待办事宜-Todo-列表" class="headerlink" title="1. 制作一份待办事宜 Todo 列表"></a>1. 制作一份待办事宜 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-%E5%BE%85%E5%8A%9E%E4%BA%8B%E5%AE%9C-todo-%E5%88%97%E8%A1%A8" target="_blank" rel="noopener">Todo 列表</a></h3><ul>
-<li><input disabled="" type="checkbox"> 支持以 PDF 格式导出文稿</li>
-<li><input disabled="" type="checkbox"> 改进 Cmd 渲染算法，使用局部渲染技术提高渲染效率</li>
-<li><input checked="" disabled="" type="checkbox"> 新增 Todo 列表功能</li>
-<li><input checked="" disabled="" type="checkbox"> 修复 LaTex 公式渲染问题</li>
-<li><input checked="" disabled="" type="checkbox"> 新增 LaTex 公式编号功能</li>
-</ul>
-<h3 id="2-书写一个质能守恒公式-1"><a href="#2-书写一个质能守恒公式-1" class="headerlink" title="2. 书写一个质能守恒公式[^1]"></a>2. 书写一个质能守恒公式[^1]</h3><p>$$E=mc^2$$</p>
-<h3 id="3-高亮一段代码-2"><a href="#3-高亮一段代码-2" class="headerlink" title="3. 高亮一段代码[^2]"></a>3. 高亮一段代码[^2]</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">@requires_authorization</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">SomeClass</span>:</span></span><br><span class="line">    <span class="keyword">pass</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">'__main__'</span>:</span><br><span class="line">    <span class="comment"># A comment</span></span><br><span class="line">    <span class="keyword">print</span> <span class="string">'hello world'</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="4-高效绘制-流程图"><a href="#4-高效绘制-流程图" class="headerlink" title="4. 高效绘制 流程图"></a>4. 高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#7-%E6%B5%81%E7%A8%8B%E5%9B%BE" target="_blank" rel="noopener">流程图</a></h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">st&#x3D;&gt;start: Start</span><br><span class="line">op&#x3D;&gt;operation: Your Operation</span><br><span class="line">cond&#x3D;&gt;condition: Yes or No?</span><br><span class="line">e&#x3D;&gt;end</span><br><span class="line"></span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br></pre></td></tr></table></figure>
-
-<h3 id="5-高效绘制-序列图"><a href="#5-高效绘制-序列图" class="headerlink" title="5. 高效绘制 序列图"></a>5. 高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#8-%E5%BA%8F%E5%88%97%E5%9B%BE" target="_blank" rel="noopener">序列图</a></h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Alice-&gt;Bob: Hello Bob, how are you?</span><br><span class="line">Note right of Bob: Bob thinks</span><br><span class="line">Bob--&gt;Alice: I am good thanks!</span><br></pre></td></tr></table></figure>
-
-<h3 id="6-高效绘制-甘特图"><a href="#6-高效绘制-甘特图" class="headerlink" title="6. 高效绘制 甘特图"></a>6. 高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#9-%E7%94%98%E7%89%B9%E5%9B%BE" target="_blank" rel="noopener">甘特图</a></h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">title 项目开发流程</span><br><span class="line">section 项目确定</span><br><span class="line">    需求分析       :a1, 2016-06-22, 3d</span><br><span class="line">    可行性报告     :after a1, 5d</span><br><span class="line">    概念验证       : 5d</span><br><span class="line">section 项目实施</span><br><span class="line">    概要设计      :2016-07-05  , 5d</span><br><span class="line">    详细设计      :2016-07-08, 10d</span><br><span class="line">    编码          :2016-07-15, 10d</span><br><span class="line">    测试          :2016-07-22, 5d</span><br><span class="line">section 发布验收</span><br><span class="line">    发布: 2d</span><br><span class="line">    验收: 3d</span><br></pre></td></tr></table></figure>
-
-<h3 id="7-绘制表格"><a href="#7-绘制表格" class="headerlink" title="7. 绘制表格"></a>7. 绘制表格</h3><table>
-<thead>
-<tr>
-<th>项目</th>
-<th align="right">价格</th>
-<th align="center">数量</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>计算机</td>
-<td align="right">$1600</td>
-<td align="center">5</td>
-</tr>
-<tr>
-<td>手机</td>
-<td align="right">$12</td>
-<td align="center">12</td>
-</tr>
-<tr>
-<td>管线</td>
-<td align="right">$1</td>
-<td align="center">234</td>
-</tr>
-</tbody></table>
-<h3 id="8-更详细语法说明"><a href="#8-更详细语法说明" class="headerlink" title="8. 更详细语法说明"></a>8. 更详细语法说明</h3><p>想要查看更详细的语法说明，可以参考我们准备的 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown" target="_blank" rel="noopener">Cmd Markdown 简明语法手册</a>，进阶用户可以参考 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-%E9%AB%98%E9%98%B6%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C" target="_blank" rel="noopener">Cmd Markdown 高阶语法手册</a> 了解更多高级功能。</p>
-<p>总而言之，不同于其它 <em>所见即所得</em> 的编辑器：你只需使用键盘专注于书写文本内容，就可以生成印刷级的排版格式，省却在键盘和工具栏之间来回切换，调整内容和格式的麻烦。<strong>Markdown 在流畅的书写和印刷级的阅读体验之间找到了平衡。</strong> 目前它已经成为世界上最大的技术分享网站 GitHub 和 技术问答网站 StackOverFlow 的御用书写格式。</p>
-<hr>
-<h2 id="什么是-Cmd-Markdown"><a href="#什么是-Cmd-Markdown" class="headerlink" title="什么是 Cmd Markdown"></a>什么是 Cmd Markdown</h2><p>您可以使用很多工具书写 Markdown，但是 Cmd Markdown 是这个星球上我们已知的、最好的 Markdown 工具——没有之一 ：）因为深信文字的力量，所以我们和你一样，对流畅书写，分享思想和知识，以及阅读体验有极致的追求，我们把对于这些诉求的回应整合在 Cmd Markdown，并且一次，两次，三次，乃至无数次地提升这个工具的体验，最终将它演化成一个 <strong>编辑/发布/阅读</strong> Markdown 的在线平台——您可以在任何地方，任何系统/设备上管理这里的文字。</p>
-<h3 id="1-实时同步预览"><a href="#1-实时同步预览" class="headerlink" title="1. 实时同步预览"></a>1. 实时同步预览</h3><p>我们将 Cmd Markdown 的主界面一分为二，左边为<strong>编辑区</strong>，右边为<strong>预览区</strong>，在编辑区的操作会实时地渲染到预览区方便查看最终的版面效果，并且如果你在其中一个区拖动滚动条，我们有一个巧妙的算法把另一个区的滚动条同步到等价的位置，超酷！</p>
-<h3 id="2-编辑工具栏"><a href="#2-编辑工具栏" class="headerlink" title="2. 编辑工具栏"></a>2. 编辑工具栏</h3><p>也许您还是一个 Markdown 语法的新手，在您完全熟悉它之前，我们在 <strong>编辑区</strong> 的顶部放置了一个如下图所示的工具栏，您可以使用鼠标在工具栏上调整格式，不过我们仍旧鼓励你使用键盘标记格式，提高书写的流畅度。</p>
-<p><img src="https://www.zybuluo.com/static/img/toolbar-editor.png" alt="tool-editor"></p>
-<h3 id="3-编辑模式"><a href="#3-编辑模式" class="headerlink" title="3. 编辑模式"></a>3. 编辑模式</h3><p>完全心无旁骛的方式编辑文字：点击 <strong>编辑工具栏</strong> 最右侧的拉伸按钮或者按下 <code>Ctrl + M</code>，将 Cmd Markdown 切换到独立的编辑模式，这是一个极度简洁的写作环境，所有可能会引起分心的元素都已经被挪除，超清爽！</p>
-<h3 id="4-实时的云端文稿"><a href="#4-实时的云端文稿" class="headerlink" title="4. 实时的云端文稿"></a>4. 实时的云端文稿</h3><p>为了保障数据安全，Cmd Markdown 会将您每一次击键的内容保存至云端，同时在 <strong>编辑工具栏</strong> 的最右侧提示 <code>已保存</code> 的字样。无需担心浏览器崩溃，机器掉电或者地震，海啸——在编辑的过程中随时关闭浏览器或者机器，下一次回到 Cmd Markdown 的时候继续写作。</p>
-<h3 id="5-离线模式"><a href="#5-离线模式" class="headerlink" title="5. 离线模式"></a>5. 离线模式</h3><p>在网络环境不稳定的情况下记录文字一样很安全！在您写作的时候，如果电脑突然失去网络连接，Cmd Markdown 会智能切换至离线模式，将您后续键入的文字保存在本地，直到网络恢复再将他们传送至云端，即使在网络恢复前关闭浏览器或者电脑，一样没有问题，等到下次开启 Cmd Markdown 的时候，她会提醒您将离线保存的文字传送至云端。简而言之，我们尽最大的努力保障您文字的安全。</p>
-<h3 id="6-管理工具栏"><a href="#6-管理工具栏" class="headerlink" title="6. 管理工具栏"></a>6. 管理工具栏</h3><p>为了便于管理您的文稿，在 <strong>预览区</strong> 的顶部放置了如下所示的 <strong>管理工具栏</strong>：</p>
-<p><img src="https://www.zybuluo.com/static/img/toolbar-manager.jpg" alt="tool-manager"></p>
-<p>通过管理工具栏可以：</p>
-<p><i class="icon-share"></i> 发布：将当前的文稿生成固定链接，在网络上发布，分享<br><i class="icon-file"></i> 新建：开始撰写一篇新的文稿<br><i class="icon-trash"></i> 删除：删除当前的文稿<br><i class="icon-cloud"></i> 导出：将当前的文稿转化为 Markdown 文本或者 Html 格式，并导出到本地<br><i class="icon-reorder"></i> 列表：所有新增和过往的文稿都可以在这里查看、操作<br><i class="icon-pencil"></i> 模式：切换 普通/Vim/Emacs 编辑模式</p>
-<h3 id="7-阅读工具栏"><a href="#7-阅读工具栏" class="headerlink" title="7. 阅读工具栏"></a>7. 阅读工具栏</h3><p><img src="https://www.zybuluo.com/static/img/toolbar-reader.jpg" alt="tool-manager"></p>
-<p>通过 <strong>预览区</strong> 右上角的 <strong>阅读工具栏</strong>，可以查看当前文稿的目录并增强阅读体验。</p>
-<p>工具栏上的五个图标依次为：</p>
-<p><i class="icon-list"></i> 目录：快速导航当前文稿的目录结构以跳转到感兴趣的段落<br><i class="icon-chevron-sign-left"></i> 视图：互换左边编辑区和右边预览区的位置<br><i class="icon-adjust"></i> 主题：内置了黑白两种模式的主题，试试 <strong>黑色主题</strong>，超炫！<br><i class="icon-desktop"></i> 阅读：心无旁骛的阅读模式提供超一流的阅读体验<br><i class="icon-fullscreen"></i> 全屏：简洁，简洁，再简洁，一个完全沉浸式的写作和阅读环境</p>
-<h3 id="8-阅读模式"><a href="#8-阅读模式" class="headerlink" title="8. 阅读模式"></a>8. 阅读模式</h3><p>在 <strong>阅读工具栏</strong> 点击 <i class="icon-desktop"></i> 或者按下 <code>Ctrl+Alt+M</code> 随即进入独立的阅读模式界面，我们在版面渲染上的每一个细节：字体，字号，行间距，前背景色都倾注了大量的时间，努力提升阅读的体验和品质。</p>
-<h3 id="9-标签、分类和搜索"><a href="#9-标签、分类和搜索" class="headerlink" title="9. 标签、分类和搜索"></a>9. 标签、分类和搜索</h3><p>在编辑区任意行首位置输入以下格式的文字可以标签当前文档：</p>
-<p>标签： 未分类</p>
-<p>标签以后的文稿在【文件列表】（Ctrl+Alt+F）里会按照标签分类，用户可以同时使用键盘或者鼠标浏览查看，或者在【文件列表】的搜索文本框内搜索标题关键字过滤文稿，如下图所示：</p>
-<p><img src="https://www.zybuluo.com/static/img/file-list.png" alt="file-list"></p>
-<h3 id="10-文稿发布和分享"><a href="#10-文稿发布和分享" class="headerlink" title="10. 文稿发布和分享"></a>10. 文稿发布和分享</h3><p>在您使用 Cmd Markdown 记录，创作，整理，阅读文稿的同时，我们不仅希望它是一个有力的工具，更希望您的思想和知识通过这个平台，连同优质的阅读体验，将他们分享给有相同志趣的人，进而鼓励更多的人来到这里记录分享他们的思想和知识，尝试点击 <i class="icon-share"></i> (Ctrl+Alt+P) 发布这份文档给好友吧！</p>
-<hr>
-<p>再一次感谢您花费时间阅读这份欢迎稿，点击 <i class="icon-file"></i> (Ctrl+Alt+N) 开始撰写新的文稿吧！祝您在这里记录、阅读、分享愉快！</p>
-<p>作者 <a href="http://weibo.com/ghosert" target="_blank" rel="noopener">@ghosert</a><br>2016 年 07月 07日  </p>
-<p>[^1]:    支持 <strong>LaTeX</strong> 编辑显示支持，例如：$\sum_{i=1}^n a_i=0$， 访问 <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener">MathJax</a> 参考更多使用方法。</p>
-<p>[^2]:    代码高亮功能支持包括 Java, Python, JavaScript 在内的，<strong>四十一</strong>种主流编程语言。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2020/03/22/test/</url>
-    <content><![CDATA[<h1 id="Research-Interest"><a href="#Research-Interest" class="headerlink" title="Research Interest"></a>Research Interest</h1><hr>
-<h3 id="1-斜体和粗体"><a href="#1-斜体和粗体" class="headerlink" title="1. 斜体和粗体"></a>1. 斜体和粗体</h3><p>使用 * 和 ** 表示斜体和粗体。</p>
-<p>示例：</p>
-<p>这是 <em>斜体</em>，这是 <strong>粗体</strong>。</p>
 <a id="more"></a>
-
-<h3 id="2-分级标题"><a href="#2-分级标题" class="headerlink" title="2. 分级标题"></a>2. 分级标题</h3><p>使用 === 表示一级标题，使用 — 表示二级标题。</p>
-<p>示例：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">这是一个一级标题</span><br><span class="line">&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line"></span><br><span class="line">这是一个二级标题</span><br><span class="line">--------------------------------------------------</span><br><span class="line"></span><br><span class="line">### 这是一个三级标题</span><br></pre></td></tr></table></figure>
-
-<p>你也可以选择在行首加井号表示不同级别的标题 (H1-H6)，例如：# H1, ## H2, ### H3，#### H4。</p>
-<h3 id="3-外链接"><a href="#3-外链接" class="headerlink" title="3. 外链接"></a>3. 外链接</h3><p>使用 <a href="%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80">描述</a> 为文字增加外链接。</p>
-<p>示例：</p>
-<p>这是去往 <a href="http://Shen-Yu.github.com" target="_blank" rel="noopener">本人博客</a> 的链接。</p>
-<p><img src="https://n1-q.mafengwo.net/s15/M00/65/BB/CoUBGV3brtOAMKOdAAsHBZ8nyQk791.jpg?imageMogr2/thumbnail/1360x/strip/quality/90" alt=""></p>
-<h3 id="4-无序列表"><a href="#4-无序列表" class="headerlink" title="4. 无序列表"></a>4. 无序列表</h3><p>使用 *，+，- 表示无序列表。</p>
-<p>示例：</p>
+<p>We propose that this goal will be one of the grand challenges shared by the robotics and AI communities for the next 50 years. This goal may sound overly ambitious given the state of the art of technology today. Nevertheless, we believe it is important that such a long-range goal should be set and pursued. It took only 50 years from the Wright Brothers’ first aircraft to the Apollo mission, to send a man to the moon and safely return him to the earth. It also took only 50 years, from the invention of the digital computer to Deep Blue, which beat the human world champion in chess. Building a humanoid soccer player requires an equally long period and extensive efforts of a broad range of researchers, and the goal will not be met in the near future.</p>
+<hr>
+<h1 id="Our-Achieves"><a href="#Our-Achieves" class="headerlink" title="Our Achieves"></a>Our Achieves</h1><h3 id="World-Championships"><a href="#World-Championships" class="headerlink" title="World Championships:"></a>World Championships:</h3><p><strong>1st place</strong>: 2010,2011,<a href="https://www.youtube.com/watch?v=UagXSjp9nfk" target="_blank" rel="noopener">2013</a>,<a href="https://www.youtube.com/watch?v=FLCE1Q2IdQQ" target="_blank" rel="noopener">2015</a>,2017<br><strong>2nd place</strong>:<a href="https://www.youtube.com/watch?v=9XJc-jY90dE" target="_blank" rel="noopener">2014</a>,2019<br><strong>3rd place</strong>: 2013,2018 </p>
+<h3 id="RoboCup-China-Open"><a href="#RoboCup-China-Open" class="headerlink" title="RoboCup China Open:"></a>RoboCup China Open:</h3><p><strong>1st place</strong>: 2010,2014,2017,2018,2019<br> <strong>2nd place</strong>: 2008,2009,2011,2013,2016 </p>
+<h3 id="Asia-Pacific-RobotCup"><a href="#Asia-Pacific-RobotCup" class="headerlink" title="Asia Pacific RobotCup:"></a>Asia Pacific RobotCup:</h3><p><strong>1st place</strong>: 2019</p>
+<hr>
+<h1 id="A-Brief-History-of-RoboCup"><a href="#A-Brief-History-of-RoboCup" class="headerlink" title="A Brief History of RoboCup"></a>A Brief History of RoboCup</h1><p>In the history of artificial intelligence and robotics, the year 1997 will be remembered as a turning point. In May 1997, IBM Deep Blue defeated the human world champion in chess. Forty years of challenge in the AI community came to a successful conclusion. On July 4, 1997, NASA’s MARS Pathfinder mission made a successful landing and the first autonomous robotics system, Sojourner, was deployed on the surface of Mars. Together with these accomplishments, RoboCup made its first steps toward the development of robotic soccer players which can beat a human World Cup champion team.</p>
+<p>The idea of robots playing soccer was first mentioned by Professor Alan Mackworth (University of British Columbia, Canada) in a paper entitled “On Seeing Robots” presented at VI-92, 1992. and later published in a book Computer Vision: System, Theory, and Applications, pages 1-13, World Scientific Press, Singapore, 1993. A series of papers on the Dynamo robot soccer project was published by his group.</p>
+<p>Independently, a group of Japanese researchers organized a Workshop on Grand Challenges in Artificial Intelligence in October, 1992 in Tokyo, discussing possible grand challenge problems. This workshop led to a serious discussions of using the game of soccer for promoting science and technology. A series of investigation were carried out, including a technology feasibility study, a social impact assessment, and a financial feasibility study. In addition, rules were drafted, as well as prototype development of soccer robots and simulator systems. As a result of these studies, the researchers concluded that the project was feasible and desirable. In June 1993, a group of researchers, including Minoru Asada, Yasuo Kuniyoshi, and Hiroaki Kitano, decided to launch a robot competition, tentatively named the Robot J-League (J-League is the name of the newly established Japanese Professional soccer league). Within a month, however, they received overwhelming reactions from researchers outside of Japan, requesting that the initiative be extended as an international joint project. Accordingly, they renamed the project as the Robot World Cup Initiative, “RoboCup” for short.</p>
+<p>Concurrent to this discussion, several researchers were already using the game of soccer as a domain for their research. For example, Itsuki Noda, at ElectroTechnical Laboratory (ETL), a government research center in Japan, was conducting multi-agent research using soccer, and started the development of a dedicated simulator for soccer games. This simulator later became the official soccer server of RoboCup. Independently, Professor Minoru Asada’s Lab at Osaka University, and Professor Manuela Veloso and her student Peter Stone at Carnegie Mellon University had been working on soccer playing robots. Without the participation of these early pioneers of the field, RoboCup could not have taken off.</p>
+<p>In September 1993, the first public announcement of the initiative was made, and specific regulations were drafted. Accordingly, discussions on organizations and technical issues were held at numerous conferences and workshops, including AAAI-94, JSAI Symposium, and at various robotics society meetings.</p>
+<p>Meanwhile, Noda’s team at ETL announced the Soccer Server version 0 (LISP version), the first open system simulator for the soccer domain enabling multi-agent systems research, followed by version 1.0 of Soccer Server (C++ Version) which was distributed via the web. The first public demonstration of this simulator was made at IJCAI-95.</p>
+<p>During the International Joint Conference on Artificial Intelligence (IJCAI-95) held at Montreal, Canada, August, 1995, the announcement was made to organize the First Robot World Cup Soccer Games and Conferences in conjunction with IJCAI-97 Nagoya. At the same time, the decision was made to organize Pre-RoboCup-96, in order to identify potential problems associated with organizing RoboCup on a large scale. The decision was made to provide two years of preparation and development time, so that initial group of researchers could start robot and simulation team development, as well as giving lead time for their funding schedules.</p>
+<p>Pre-RoboCup-96 was held during International Conference on Intelligence Robotics and Systems (IROS-96), Osaka, from November 4 – 8, 1996, with eight teams competing in a simulation league and demonstration of real robot for middle size league. While limited in scale, this competition was the first competition using soccer games for promotion of research and education.</p>
+<p>The first official RoboCup games and conference was held in 1997 with great success. Over 40 teams participated (real and simulation combined), and over 5,000 spectators attended.</p>
 <ul>
-<li>无序列表项 一</li>
-<li>无序列表项 二</li>
-<li>无序列表项 三</li>
+<li>See more at: <a href="https://www.robocup.org/" target="_blank" rel="noopener">https://www.robocup.org/</a></li>
 </ul>
-<h3 id="5-有序列表"><a href="#5-有序列表" class="headerlink" title="5. 有序列表"></a>5. 有序列表</h3><p>使用数字和点表示有序列表。</p>
-<p>示例：</p>
-<ol>
-<li>有序列表项 一</li>
-<li>有序列表项 二</li>
-<li>有序列表项 三</li>
-</ol>
-<h3 id="6-文字引用"><a href="#6-文字引用" class="headerlink" title="6. 文字引用"></a>6. 文字引用</h3><p>使用 &gt; 表示文字引用。</p>
-<p>示例：</p>
-<blockquote>
-<p>野火烧不尽，春风吹又生。</p>
-</blockquote>
-<h3 id="7-行内代码块"><a href="#7-行内代码块" class="headerlink" title="7. 行内代码块"></a>7. 行内代码块</h3><p>使用 `代码` 表示行内代码块。</p>
-<p>示例：</p>
-<p>让我们聊聊 <code>html</code>。</p>
-<h3 id="8-代码块"><a href="#8-代码块" class="headerlink" title="8.  代码块"></a>8.  代码块</h3><p>使用 四个缩进空格 表示代码块。</p>
-<p>示例：</p>
-<pre><code>这是一个代码块，此行左侧有四个不可见的空格。</code></pre><h3 id="9-插入图像"><a href="#9-插入图像" class="headerlink" title="9.  插入图像"></a>9.  插入图像</h3><p>使用 !<a href="%E5%9B%BE%E7%89%87%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80">描述</a> 插入图像。</p>
-<p>示例：</p>
-<p><img src="https://www.zybuluo.com/static/img/my_head.jpg" alt="我的头像"></p>
-<h1 id="Cmd-Markdown-高阶语法手册"><a href="#Cmd-Markdown-高阶语法手册" class="headerlink" title="Cmd Markdown 高阶语法手册"></a>Cmd Markdown 高阶语法手册</h1><h3 id="1-内容目录"><a href="#1-内容目录" class="headerlink" title="1. 内容目录"></a>1. 内容目录</h3><p>在段落中填写 <code>[TOC]</code> 以显示全文内容的目录结构。</p>
-<p>[TOC]</p>
-<h3 id="2-标签分类"><a href="#2-标签分类" class="headerlink" title="2. 标签分类"></a>2. 标签分类</h3><p>在编辑区任意行的列首位置输入以下代码给文稿标签：</p>
-<p>标签： 数学 英语 Markdown</p>
-<p>或者</p>
-<p>Tags： 数学 英语 Markdown</p>
-<h3 id="3-删除线"><a href="#3-删除线" class="headerlink" title="3. 删除线"></a>3. 删除线</h3><p>使用 ~~ 表示删除线。</p>
-<p>~~这是一段错误的文本。~~</p>
-<h3 id="4-注脚"><a href="#4-注脚" class="headerlink" title="4. 注脚"></a>4. 注脚</h3><p>使用 [^keyword] 表示注脚。</p>
-<p>这是一个注脚[^1]的样例。</p>
-<p>这是第二个注脚[^2]的样例。</p>
-<h3 id="5-LaTeX-公式"><a href="#5-LaTeX-公式" class="headerlink" title="5. LaTeX 公式"></a>5. LaTeX 公式</h3><p>$ 表示行内公式： </p>
-<p>质能守恒方程可以用一个很简洁的方程式 $E=mc^2$ 来表达。</p>
-<p>$$ 表示整行公式：</p>
-<p>$$\sum_{i=1}^n a_i=0$$</p>
-<p>$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$</p>
-<p>$$\sum^{j-1}<em>{k=0}{\widehat{\gamma}</em>{kj} z_k}$$</p>
-<p>访问 <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener">MathJax</a> 参考更多使用方法。</p>
-<h3 id="6-加强的代码块"><a href="#6-加强的代码块" class="headerlink" title="6. 加强的代码块"></a>6. 加强的代码块</h3><p>支持四十一种编程语言的语法高亮的显示，行号显示。</p>
-<p>非代码示例：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ sudo apt-get install vim-gnome</span><br></pre></td></tr></table></figure>
-
-<p>Python 示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">@requires_authorization</span></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">somefunc</span><span class="params">(param1=<span class="string">''</span>, param2=<span class="number">0</span>)</span>:</span></span><br><span class="line">    <span class="string">'''A docstring'''</span></span><br><span class="line">    <span class="keyword">if</span> param1 &gt; param2: <span class="comment"># interesting</span></span><br><span class="line">        <span class="keyword">print</span> <span class="string">'Greater'</span></span><br><span class="line">    <span class="keyword">return</span> (param2 - param1 + <span class="number">1</span>) <span class="keyword">or</span> <span class="literal">None</span></span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">SomeClass</span>:</span></span><br><span class="line">    <span class="keyword">pass</span></span><br><span class="line"></span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>message = <span class="string">'''interpreter</span></span><br><span class="line"><span class="string"><span class="meta">... </span>prompt'''</span></span><br></pre></td></tr></table></figure>
-
-<p>JavaScript 示例：</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment">* nth element in the fibonacci series.</span></span><br><span class="line"><span class="comment">* <span class="doctag">@param </span>n &gt;= 0</span></span><br><span class="line"><span class="comment">* <span class="doctag">@return </span>the nth element, &gt;= 0.</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">fib</span>(<span class="params">n</span>) </span>&#123;</span><br><span class="line">  <span class="keyword">var</span> a = <span class="number">1</span>, b = <span class="number">1</span>;</span><br><span class="line">  <span class="keyword">var</span> tmp;</span><br><span class="line">  <span class="keyword">while</span> (--n &gt;= <span class="number">0</span>) &#123;</span><br><span class="line">    tmp = a;</span><br><span class="line">    a += b;</span><br><span class="line">    b = tmp;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span> a;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="built_in">document</span>.write(fib(<span class="number">10</span>));</span><br></pre></td></tr></table></figure>
-
-<h3 id="7-流程图"><a href="#7-流程图" class="headerlink" title="7. 流程图"></a>7. 流程图</h3><h4 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">st&#x3D;&gt;start: Start:&gt;https:&#x2F;&#x2F;www.zybuluo.com</span><br><span class="line">io&#x3D;&gt;inputoutput: verification</span><br><span class="line">op&#x3D;&gt;operation: Your Operation</span><br><span class="line">cond&#x3D;&gt;condition: Yes or No?</span><br><span class="line">sub&#x3D;&gt;subroutine: Your Subroutine</span><br><span class="line">e&#x3D;&gt;end</span><br><span class="line"></span><br><span class="line">st-&gt;io-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;sub-&gt;io</span><br></pre></td></tr></table></figure>
-
-<h4 id="更多语法参考：流程图语法参考"><a href="#更多语法参考：流程图语法参考" class="headerlink" title="更多语法参考：流程图语法参考"></a>更多语法参考：<a href="http://adrai.github.io/flowchart.js/" target="_blank" rel="noopener">流程图语法参考</a></h4><h3 id="8-序列图"><a href="#8-序列图" class="headerlink" title="8. 序列图"></a>8. 序列图</h3><h4 id="示例-1"><a href="#示例-1" class="headerlink" title="示例 1"></a>示例 1</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Alice-&gt;Bob: Hello Bob, how are you?</span><br><span class="line">Note right of Bob: Bob thinks</span><br><span class="line">Bob--&gt;Alice: I am good thanks!</span><br></pre></td></tr></table></figure>
-
-<h4 id="示例-2"><a href="#示例-2" class="headerlink" title="示例 2"></a>示例 2</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Title: Here is a title</span><br><span class="line">A-&gt;B: Normal line</span><br><span class="line">B--&gt;C: Dashed line</span><br><span class="line">C-&gt;&gt;D: Open arrow</span><br><span class="line">D--&gt;&gt;A: Dashed open arrow</span><br></pre></td></tr></table></figure>
-
-<h4 id="更多语法参考：序列图语法参考"><a href="#更多语法参考：序列图语法参考" class="headerlink" title="更多语法参考：序列图语法参考"></a>更多语法参考：<a href="http://bramp.github.io/js-sequence-diagrams/" target="_blank" rel="noopener">序列图语法参考</a></h4><h3 id="9-甘特图"><a href="#9-甘特图" class="headerlink" title="9. 甘特图"></a>9. 甘特图</h3><p>甘特图内在思想简单。基本是一条线条图，横轴表示时间，纵轴表示活动（项目），线条表示在整个期间上计划和实际的活动完成情况。它直观地表明任务计划在什么时候进行，及实际进展与计划要求的对比。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">title 项目开发流程</span><br><span class="line">section 项目确定</span><br><span class="line">    需求分析       :a1, 2016-06-22, 3d</span><br><span class="line">    可行性报告     :after a1, 5d</span><br><span class="line">    概念验证       : 5d</span><br><span class="line">section 项目实施</span><br><span class="line">    概要设计      :2016-07-05  , 5d</span><br><span class="line">    详细设计      :2016-07-08, 10d</span><br><span class="line">    编码          :2016-07-15, 10d</span><br><span class="line">    测试          :2016-07-22, 5d</span><br><span class="line">section 发布验收</span><br><span class="line">    发布: 2d</span><br><span class="line">    验收: 3d</span><br></pre></td></tr></table></figure>
-
-<h4 id="更多语法参考：甘特图语法参考"><a href="#更多语法参考：甘特图语法参考" class="headerlink" title="更多语法参考：甘特图语法参考"></a>更多语法参考：<a href="https://knsv.github.io/mermaid/#gant-diagrams" target="_blank" rel="noopener">甘特图语法参考</a></h4><h3 id="10-Mermaid-流程图"><a href="#10-Mermaid-流程图" class="headerlink" title="10. Mermaid 流程图"></a>10. Mermaid 流程图</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">A[Hard edge] --&gt;|Link text| B(Round edge)</span><br><span class="line">B --&gt; C&#123;Decision&#125;</span><br><span class="line">C --&gt;|One| D[Result one]</span><br><span class="line">C --&gt;|Two| E[Result two]</span><br></pre></td></tr></table></figure>
-
-<h4 id="更多语法参考：Mermaid-流程图语法参考"><a href="#更多语法参考：Mermaid-流程图语法参考" class="headerlink" title="更多语法参考：Mermaid 流程图语法参考"></a>更多语法参考：<a href="https://knsv.github.io/mermaid/#flowcharts-basic-syntax" target="_blank" rel="noopener">Mermaid 流程图语法参考</a></h4><h3 id="11-Mermaid-序列图"><a href="#11-Mermaid-序列图" class="headerlink" title="11. Mermaid 序列图"></a>11. Mermaid 序列图</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Alice-&gt;John: Hello John, how are you?</span><br><span class="line">loop every minute</span><br><span class="line">    John--&gt;Alice: Great!</span><br><span class="line">end</span><br></pre></td></tr></table></figure>
-
-<h4 id="更多语法参考：Mermaid-序列图语法参考"><a href="#更多语法参考：Mermaid-序列图语法参考" class="headerlink" title="更多语法参考：Mermaid 序列图语法参考"></a>更多语法参考：<a href="https://knsv.github.io/mermaid/#sequence-diagrams" target="_blank" rel="noopener">Mermaid 序列图语法参考</a></h4><h3 id="12-表格支持"><a href="#12-表格支持" class="headerlink" title="12. 表格支持"></a>12. 表格支持</h3><table>
-<thead>
-<tr>
-<th>项目</th>
-<th align="right">价格</th>
-<th align="center">数量</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>计算机</td>
-<td align="right">$1600</td>
-<td align="center">5</td>
-</tr>
-<tr>
-<td>手机</td>
-<td align="right">$12</td>
-<td align="center">12</td>
-</tr>
-<tr>
-<td>管线</td>
-<td align="right">$1</td>
-<td align="center">234</td>
-</tr>
-</tbody></table>
-<h3 id="13-定义型列表"><a href="#13-定义型列表" class="headerlink" title="13. 定义型列表"></a>13. 定义型列表</h3><dl><dt>名词 1</dt><dd>定义 1（左侧有一个可见的冒号和四个不可见的空格）</dd></dl><dl><dt>代码块 2</dt><dd>这是代码块的定义（左侧有一个可见的冒号和四个不可见的空格）</dd></dl><pre><code>代码块（左侧有八个不可见的空格）</code></pre><h3 id="14-Html-标签"><a href="#14-Html-标签" class="headerlink" title="14. Html 标签"></a>14. Html 标签</h3><p>本站支持在 Markdown 语法中嵌套 Html 标签，譬如，你可以用 Html 写一个纵跨两行的表格：</p>
-<pre><code>&lt;table&gt;
-    &lt;tr&gt;
-        &lt;th rowspan=&quot;2&quot;&gt;值班人员&lt;/th&gt;
-        &lt;th&gt;星期一&lt;/th&gt;
-        &lt;th&gt;星期二&lt;/th&gt;
-        &lt;th&gt;星期三&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;李强&lt;/td&gt;
-        &lt;td&gt;张明&lt;/td&gt;
-        &lt;td&gt;王平&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;</code></pre><table>
-    <tr>
-        <th rowspan="2">值班人员</th>
-        <th>星期一</th>
-        <th>星期二</th>
-        <th>星期三</th>
-    </tr>
-    <tr>
-        <td>李强</td>
-        <td>张明</td>
-        <td>王平</td>
-    </tr>
-</table>
-
-<h3 id="15-内嵌图标"><a href="#15-内嵌图标" class="headerlink" title="15. 内嵌图标"></a>15. 内嵌图标</h3><p>本站的图标系统对外开放，在文档中输入</p>
-<pre><code>&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;</code></pre><p>即显示微博的图标： <i class="icon-weibo icon-2x"></i></p>
-<p>替换 上述 <code>i 标签</code> 内的 <code>icon-weibo</code> 以显示不同的图标，例如：</p>
-<pre><code>&lt;i class=&quot;icon-renren&quot;&gt;&lt;/i&gt;</code></pre><p>即显示人人的图标： <i class="icon-renren icon-2x"></i></p>
-<p>更多的图标和玩法可以参看 <a href="http://fortawesome.github.io/Font-Awesome/3.2.1/icons/" target="_blank" rel="noopener">font-awesome</a> 官方网站。</p>
-<h3 id="16-待办事宜-Todo-列表"><a href="#16-待办事宜-Todo-列表" class="headerlink" title="16. 待办事宜 Todo 列表"></a>16. 待办事宜 Todo 列表</h3><p>使用带有 [ ] 或 [x] （未完成或已完成）项的列表语法撰写一个待办事宜列表，并且支持子列表嵌套以及混用Markdown语法，例如：</p>
-<pre><code>- [ ] **Cmd Markdown 开发**
-    - [ ] 改进 Cmd 渲染算法，使用局部渲染技术提高渲染效率
-    - [ ] 支持以 PDF 格式导出文稿
-    - [x] 新增Todo列表功能 [语法参考](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
-    - [x] 改进 LaTex 功能
-        - [x] 修复 LaTex 公式渲染问题
-        - [x] 新增 LaTex 公式编号功能 [语法参考](http://docs.mathjax.org/en/latest/tex.html#tex-eq-numbers)
-- [ ] **七月旅行准备**
-    - [ ] 准备邮轮上需要携带的物品
-    - [ ] 浏览日本免税店的物品
-    - [x] 购买蓝宝石公主号七月一日的船票</code></pre><p>对应显示如下待办事宜 Todo 列表：</p>
-<ul>
-<li><input disabled="" type="checkbox"> <strong>Cmd Markdown 开发</strong><ul>
-<li><input disabled="" type="checkbox"> 改进 Cmd 渲染算法，使用局部渲染技术提高渲染效率</li>
-<li><input disabled="" type="checkbox"> 支持以 PDF 格式导出文稿</li>
-<li><input checked="" disabled="" type="checkbox"> 新增Todo列表功能 <a href="https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments" target="_blank" rel="noopener">语法参考</a></li>
-<li><input checked="" disabled="" type="checkbox"> 改进 LaTex 功能<ul>
-<li><input checked="" disabled="" type="checkbox"> 修复 LaTex 公式渲染问题</li>
-<li><input checked="" disabled="" type="checkbox"> 新增 LaTex 公式编号功能 <a href="http://docs.mathjax.org/en/latest/tex.html#tex-eq-numbers" target="_blank" rel="noopener">语法参考</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><input disabled="" type="checkbox"> <strong>七月旅行准备</strong><ul>
-<li><input disabled="" type="checkbox"> 准备邮轮上需要携带的物品</li>
-<li><input disabled="" type="checkbox"> 浏览日本免税店的物品</li>
-<li><input checked="" disabled="" type="checkbox"> 购买蓝宝石公主号七月一日的船票</li>
-</ul>
-</li>
-</ul>
-<p>[^1]:    这是一个 <em>注脚</em> 的 <strong>文本</strong>。</p>
-<p>[^2]:    这是另一个 <em>注脚</em> 的 <strong>文本</strong>。</p>
 ]]></content>
   </entry>
   <entry>
-    <title>About Me</title>
-    <url>/2020/03/10/About%20Me/</url>
-    <content><![CDATA[<h1 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h1><p>I am Fan Wang, a master student majoring in Nano materials and technology from <a href="http://www.nanoscience.gatech.edu" target="_blank" rel="noopener">professor Zhonglin Wang’s nanoscience group</a>, Beijing Institute of Nanoenergy and Nanosystems  at the<a href="http://www.ucas.ac.cn" target="_blank" rel="noopener"> University of Chinese Academy of Sciences</a> in China.<br> I am writing to express my interest in pursuing PhD training in your group, with funded by China Scholarship Council, after receiving my Master’s degree in June of 2021.</p>
-<h1 id="Skills-amp-Hobbies"><a href="#Skills-amp-Hobbies" class="headerlink" title="Skills &amp; Hobbies"></a>Skills &amp; Hobbies</h1><ul>
-<li><strong>Circuit design and Programming</strong> for Microcontrollers or NAO robot via Python or C++ </li>
-<li>Skilled operation of the <strong>Atomic Force Microscope</strong>, <strong>ICP</strong>, <strong>Laser direct writing</strong>, <strong>Atomic Layer Deposition</strong>, Physical Vapor Deposition, Plasma etching Mask Aligner, Raman Spectra, FTIR Spectrometer etc.</li>
-<li>Software: <strong>NI LabView</strong>，3D MAX, MATLAB，<strong>Mathematica</strong>, <strong>COMSOL</strong> etc.</li>
-<li><strong>Photography</strong>, hiking and travel, <strong>Calligraphy</strong></li>
-</ul>
-<h1 id="Working-Experience"><a href="#Working-Experience" class="headerlink" title="Working Experience"></a>Working Experience</h1><p>1\ 06/2017-08/2017     Horizon Robotics in Beijing| Internship<br>Debugged and managed the computer vision analysis data<br>2\ 10/2018-07/2019     Teaching Assistant of Prof. Wang Weitian for Chinese Calligraphy Class</p>
-<h1 id="Current-Position"><a href="#Current-Position" class="headerlink" title="Current Position"></a>Current Position</h1><h1 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h1><p>I did my undergraduate study in Harbin Engineering University, Harbin, China. I was lucky enough to be selected as one of the first group of students for “Chen Geng ban” (陈赓班), an elite title accompanied by hell-level training in mathematics and physics. I finished the 1.5 year of intensified basic science training with a top-5 ranking and chose to major in Automation Engineering in the rest of my program.</p>
-<p>I continued my study in Worcester Polytechnic Institute, MA, USA as a Master of Science student. My thesis project was about the application of artificial immune system in structural health monitoring.</p>
-<p>In 2014, I started my Ph.D. program in University of Toronto, Toronto, Canada, doing research in microrobotics. It was a great honor for me to be the first Ph.D. student of my advisor, Prof. Eric Diller. I had lots of fun and learned a lot. As for now, I am working as a post-doctoral researcher in Max Planck Institute for Intelligent Systems, Germany. It is intensive, even exhausting sometimes. I work with the best minds in this field and have access to the best instruments I can imagine. So, nothing to complain.</p>
-<h1 id="Awards-and-Honors"><a href="#Awards-and-Honors" class="headerlink" title="Awards and Honors"></a>Awards and Honors</h1><p>10/2019            2019 National Scholarship for Graduate Students (Merit-based)<br>07/2019            Holder of Third Prize of 2019 UCAS Innovation and Entrepreneurship Training Competition<br>05/2019            The Poster of the 4th International Conference on Nanoenergy and Nanosystems 2019<br>06/2018            Outstanding Graduates Awards in BISTU in 2018th (Merit-based)<br>06/2018            Holder of Second Prized of Photography Competition of BISTU<br>10/2017            Holder of First Prize LabView Programming Contest of BISTU<br>03/2017            Holder of Second Prize of Beijing University Technology Innovation Project<br>07/2017            Champion of RoboCup Middle Size League in Nagoya, Japan<br>06/2016            Holder of Third Prize of China Undergraduate Mathematical Contest in Modeling<br>12/2015            Special Award of North China Five Robots Competition<br>09/2015            Holder of Bao Gang Education Scholarship (Merit-based)<br>Activities &amp; Volunteers<br>02/2020            Collected donations in the street and WeChat for the people of Wuhan to against COVID-19<br>10/2018            Co-founded “Yantai Painting and Calligraphy” Association<br>¬    Worked as president, responsible for handwriting teaching<br>09/2017             Participated in volunteer training activities of 2017 Beijing Marathon<br>10/2014-09/2017     Took part in Water Robot Team | Sponsored by Intel<br>¬    Worked as main member to take part in robot competitions<br>¬    Rated as the “Excellent Member”</p>
-<p>I usually write articles on my new research, coding, how to on VRC Works Blog:<br>▪ To improve my writing skills: Sometimes I write terribly, I hope writing articles on my blog/websites will help me to develop English language writing skills.<br>▪ To make myself more productive: I have become addicted to watching movies, I want to stop them. Writing articles on my blogs/websites will hopefully make me learn new things on the internet.<br>▪ To share my growing knowledge: I will be writing articles mostly on technology and education topics.</p>
-<p>Till now I have contributed 600+ articles on various websites and blogs.<br>Apart from content writing on blogs, I also work on SEO (Search Engine Optimization), SEM (Search Engine Marketing) and Web development (WordPress Development) projects with the clients across the globe.<br>You can connect with me on any of the following social networks on Twitter @vinodhchennu,  Facebook page</p>
+    <title>About Traveling</title>
+    <url>/2018/11/21/About-Traveling/</url>
+    <content><![CDATA[<h1 id="A-Trip-Without-Plan"><a href="#A-Trip-Without-Plan" class="headerlink" title="A Trip Without Plan"></a>A Trip Without Plan</h1><hr>
+<p>Today, as the life standard has improved, people have more money to chase amusement, travel is their first choice. So there are a lot of people on the journey during the public vacation, some people even quit their jobs to do it. The trip without plan was favored by many people since a few years ago, it was the attitude towards life.</p>
+<p>Though people are proud of taking the independent travel, especially when they just go anytime and anywhere, only a few people take action. Some day, as I had the long summer vacation, I suddenly had the idea that I could take a trip without plan. So I asked two of my friends to joined my team. We booked the tickets and and hotel, then the next day, we took the train. We talked and appreciated the scenery outside the window. When we arrived the city, we just walked along the street and enjoyed the feature.</p>
+<p>It was such great experience for me, sometimes we consider so many things and miss the joy of life. Taking a trip without burden and just go to any place you want once in your life.</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Hello</title>
-    <url>/2019/10/22/Hello/</url>
-    <content><![CDATA[<h1 id="Hello"><a href="#Hello" class="headerlink" title="Hello!"></a><strong>Hello!</strong></h1><h3 id="Welcome-to-my-personal-website"><a href="#Welcome-to-my-personal-website" class="headerlink" title="Welcome to my personal website!"></a>Welcome to my personal website!</h3><p>*<em>This site contains a lot of information about my research projects (past and ongoing), some information about my personal life, and an increasing number of blogs about things and topics that I find exciting. I hope you will find something interesting here. *</em><br><img src="http://n1-q.mafengwo.net/s15/M00/F9/EC/CoUBGV53cJ-AAb3dAA3J_v_rCUQ890.JPG?imageView2/2/w/700/h/600/q/90%7CimageMogr2/strip/quality/90" alt="Me"></p>
-]]></content>
+      <categories>
+        <category>Travel</category>
+      </categories>
       <tags>
+        <tag>Travel</tag>
         <tag>Life</tag>
       </tags>
   </entry>
