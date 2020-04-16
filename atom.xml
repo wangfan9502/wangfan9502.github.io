@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-23T08:29:21.000Z</updated>
+  <updated>2020-04-16T08:24:33.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="http://yoursite.com/2020/03/22/Hello/"/>
     <id>http://yoursite.com/2020/03/22/Hello/</id>
     <published>2020-03-22T12:20:42.000Z</published>
-    <updated>2020-03-23T08:29:21.000Z</updated>
+    <updated>2020-04-16T08:24:33.000Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;Hello&quot;&gt;&lt;a href=&quot;#Hello&quot; class=&quot;headerlink&quot; title=&quot;Hello!&quot;&gt;&lt;/a&gt;&lt;strong&gt;Hello!&lt;/strong&gt;&lt;/h1&gt;&lt;h2
-        
-      
+      &lt;h1 id=&quot;Hello&quot;&gt;&lt;a href=&quot;#Hello&quot; class=&quot;headerlink&quot; title=&quot;Hello!&quot;&gt;&lt;/a&gt;&lt;strong&gt;Hello!&lt;/strong&gt;&lt;/h1&gt;&lt;h2 id=&quot;Welcome-to-my-personal-website-This-is-my-first-website-built-by-myself-This-site-contains-a-lot-of-information-about-my-research-projects-past-and-ongoing-some-information-about-my-personal-life-and-an-increasing-number-of-blogs-about-things-and-topics-that-I-find-exciting-I-hope-you-will-find-something-interesting-here&quot;&gt;&lt;a href=&quot;#Welcome-to-my-personal-website-This-is-my-first-website-built-by-myself-This-site-contains-a-lot-of-information-about-my-research-projects-past-and-ongoing-some-information-about-my-personal-life-and-an-increasing-number-of-blogs-about-things-and-topics-that-I-find-exciting-I-hope-you-will-find-something-interesting-here&quot; class=&quot;headerlink&quot; title=&quot;Welcome to my personal website! This is my first website built by myself. This site contains a lot of information about my research projects (past and ongoing), some information about my personal life, and an increasing number of blogs about things and topics that I find exciting. I hope you will find something interesting here.&quot;&gt;&lt;/a&gt;Welcome to my personal website! This is my first website built by myself. This site contains a lot of information about my research projects (past and ongoing), some information about my personal life, and an increasing number of blogs about things and topics that I find exciting. I hope you will find something interesting here.&lt;/h2&gt;&lt;img src=&quot; https://pic.downk.cc/item/5e981542c2a9a83be55e26cc.jpg&quot; alt=&quot;avatar&quot; width=&quot;600&quot; /&gt;
     
     </summary>
     
@@ -67,7 +61,7 @@
     <link href="http://yoursite.com/2020/03/21/Research/"/>
     <id>http://yoursite.com/2020/03/21/Research/</id>
     <published>2020-03-21T14:38:51.000Z</published>
-    <updated>2020-04-12T13:57:19.000Z</updated>
+    <updated>2020-04-16T08:13:50.000Z</updated>
     
     <summary type="html">
     
@@ -84,7 +78,7 @@
 &lt;h2 id=&quot;Research-Interest&quot;&gt;&lt;a href=&quot;#Research-Interest&quot; class=&quot;headerlink&quot; title=&quot;Research Interest&quot;&gt;&lt;/a&gt;Research Interest&lt;/h2&gt;&lt;h4 id=&quot;Using-advanced-technology-to-solve-some-medical-problems-is-the-motivation-for-my-research-forever-However-we-are-not-the-professional-medical-researchers-or-doctors-what-should-we-do-to-help-patents-and-doctors&quot;&gt;&lt;a href=&quot;#Using-advanced-technology-to-solve-some-medical-problems-is-the-motivation-for-my-research-forever-However-we-are-not-the-professional-medical-researchers-or-doctors-what-should-we-do-to-help-patents-and-doctors&quot; class=&quot;headerlink&quot; title=&quot;Using advanced technology to solve some medical problems, is the motivation for my research forever. However, we are not the professional medical researchers or doctors, what should we  do to help patents and doctors?&quot;&gt;&lt;/a&gt;Using advanced technology to solve some medical problems, is the motivation for my research forever. However, we are not the professional medical researchers or doctors, what should we  do to help patents and doctors?&lt;/h4&gt;&lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;PAST&lt;/code&gt;- Robots&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;ONGOING&lt;/code&gt;- Nanogenerators，Self-powered Sensor，Bio-inspired Intelligent Materials&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ONGOING&lt;/code&gt;- Nanogenerators，Self-powered Sensor，Bio-inspired Intelligent Materials，Superhydrophobic and Microfluidics&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;FUTURE&lt;/code&gt;- Wearable／Soft Electronics, Medical Miniature Robots&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
