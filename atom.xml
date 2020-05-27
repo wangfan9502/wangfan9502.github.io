@@ -67,7 +67,7 @@
     <link href="http://yoursite.com/2020/03/21/Research/"/>
     <id>http://yoursite.com/2020/03/21/Research/</id>
     <published>2020-03-21T14:38:51.000Z</published>
-    <updated>2020-04-20T09:42:15.000Z</updated>
+    <updated>2020-05-27T13:35:13.000Z</updated>
     
     <summary type="html">
     
@@ -98,11 +98,34 @@
   </entry>
   
   <entry>
+    <title>The 1-hour workday</title>
+    <link href="http://yoursite.com/2018/12/21/The%201-hour%20workday/"/>
+    <id>http://yoursite.com/2018/12/21/The%201-hour%20workday/</id>
+    <published>2018-12-20T16:17:37.000Z</published>
+    <updated>2020-05-27T13:30:28.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot; https://pic.downk.cc/item/5ece679ec2a9a83be5dcd43b.png&quot; alt=&quot;1&quot; width=&quot;600&quot; /&gt;
+
+&lt;hr&gt;
+&lt;p&gt;When I was an assistant professor, I felt constantly overwhelmed. I had classes to teach, relationships with new colleagues to navigate, a lab group to assemble, and an infant at home—not to mention research to conduct and papers to publish. To get ahead, I took on any opportunities that were offered, including membership on various editorial boards and professional committees. Despite working like a madman, my productivity as measured by paper output was meager. I simply could not find time in my day for undistracted writing. And when I did find the time after an extended stretch away from writing, the warm-up period to get back into the paper was often long, further slowing my progress.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;“I wake up early, make an espresso, and write until I&amp;#39;m spent.”&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Research" scheme="http://yoursite.com/tags/Research/"/>
+    
+  </entry>
+  
+  <entry>
     <title>About Traveling</title>
     <link href="http://yoursite.com/2018/11/21/About-Traveling/"/>
     <id>http://yoursite.com/2018/11/21/About-Traveling/</id>
     <published>2018-11-20T16:17:37.000Z</published>
-    <updated>2020-03-24T09:43:07.000Z</updated>
+    <updated>2020-05-27T13:31:30.000Z</updated>
     
     <summary type="html">
     
