@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fan WANG</title>
+  <icon>https://www.gravatar.com/avatar/ca12219dbcdd089e5cb15d358762f6ac</icon>
+  <subtitle>Personal Website</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-08-15T16:41:48.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>By Fan WANG</name>
+    <email>wangfan@binn.cas.cn</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello</title>
+    <link href="http://yoursite.com/2020/03/22/Hello/"/>
+    <id>http://yoursite.com/2020/03/22/Hello/</id>
+    <published>2020-03-22T12:20:42.000Z</published>
+    <updated>2020-08-15T16:41:48.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Hello&quot;&gt;&lt;a href=&quot;#Hello&quot; class=&quot;headerlink&quot; title=&quot;Hello!&quot;&gt;&lt;/a&gt;&lt;strong&gt;Hello!&lt;/strong&gt;&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://yoursite.com/2020/03/22/About%20Me/"/>
+    <id>http://yoursite.com/2020/03/22/About%20Me/</id>
+    <published>2020-03-22T10:00:45.000Z</published>
+    <updated>2021-05-12T08:39:09.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot; https://pic.downk.cc/item/5e785acc5c5609112980542d.jpg&quot; alt=&quot;avatar&quot; width=&quot;300&quot; /&gt;
+
+&lt;p&gt;I am Fan Wang, a master student majoring in Nano materials and technology from &lt;a href=&quot;http://www.nanoscience.gatech.edu&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;professor Zhonglin Wang’s nanoscience group&lt;/a&gt;, &lt;a href=&quot;http://www.binn.cas.cn&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Beijing Institute of Nanoenergy and Nanosystems&lt;/a&gt;  at the University of Chinese Academy of Sciences in China. &lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My Research</title>
+    <link href="http://yoursite.com/2020/03/21/Research/"/>
+    <id>http://yoursite.com/2020/03/21/Research/</id>
+    <published>2020-03-21T14:38:51.000Z</published>
+    <updated>2021-05-13T15:50:38.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;RESEARCH INTEREST&lt;/li&gt;
+&lt;li&gt;RESEARCHES AND PROJECTS&lt;/li&gt;
+&lt;li&gt;PAPERS AND PATENTS&lt;/li&gt;
+&lt;li&gt;CONFERENCES&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;img src=&quot;https://pic.imgdb.cn/item/609b8db3d1a9ae528f49ccee.png&quot; alt=&quot;avatar&quot; width=&quot;600&quot; /&gt;
+&lt;img src=&quot;https://pic.imgdb.cn/item/609b8db3d1a9ae528f49ccc6.png&quot; alt=&quot;avatar&quot; width=&quot;600&quot; /&gt;
+## Research Interest 
+
+&lt;h4 id=&quot;Using-advanced-technology-to-solve-some-medical-problems-is-the-motivation-for-my-research-forever-However-we-are-not-the-professional-medical-researchers-or-doctors-what-should-we-do-to-help-for-patents-and-doctors&quot;&gt;&lt;a href=&quot;#Using-advanced-technology-to-solve-some-medical-problems-is-the-motivation-for-my-research-forever-However-we-are-not-the-professional-medical-researchers-or-doctors-what-should-we-do-to-help-for-patents-and-doctors&quot; class=&quot;headerlink&quot; title=&quot;Using advanced technology to solve some medical problems, is the motivation for my research forever. However, we are not the professional medical researchers or doctors, what should we  do to help for patents and doctors?&quot;&gt;&lt;/a&gt;Using advanced technology to solve some medical problems, is the motivation for my research forever. However, we are not the professional medical researchers or doctors, what should we  do to help for patents and doctors?&lt;/h4&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;PAST&lt;/code&gt;- Robots&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ONGOING&lt;/code&gt;- Nanogenerators，Self-powered Sensor，Bio-inspired Intelligent Materials，Superhydrophobic and Microfluidics&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;FUTURE&lt;/code&gt;- Wearable／Soft Electronics, Medical Miniature Robots&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Research" scheme="http://yoursite.com/tags/Research/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DIY NO.2 How to make cheap low-costFlexible circuit printing system</title>
+    <link href="http://yoursite.com/2020/03/20/DIY-No.2-How%20to%20make%20cheap%20low-costFlexible%20circuit%20printing%20system/"/>
+    <id>http://yoursite.com/2020/03/20/DIY-No.2-How%20to%20make%20cheap%20low-costFlexible%20circuit%20printing%20system/</id>
+    <published>2020-03-20T05:31:01.000Z</published>
+    <updated>2021-05-12T08:42:33.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;IN
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Research" scheme="http://yoursite.com/tags/Research/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DIY NO.1 How to make Ultrasonic levitation instrument</title>
+    <link href="http://yoursite.com/2020/03/20/DIY-No.1-How%20to%20make%20Ultrasonic%20levitation%20instrument/"/>
+    <id>http://yoursite.com/2020/03/20/DIY-No.1-How%20to%20make%20Ultrasonic%20levitation%20instrument/</id>
+    <published>2020-03-20T05:31:01.000Z</published>
+    <updated>2021-05-12T08:21:31.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;em&gt;In
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Research" scheme="http://yoursite.com/tags/Research/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The 1-hour workday</title>
+    <link href="http://yoursite.com/2018/12/21/The%201-hour%20workday/"/>
+    <id>http://yoursite.com/2018/12/21/The%201-hour%20workday/</id>
+    <published>2018-12-20T16:17:37.000Z</published>
+    <updated>2020-05-27T13:30:28.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot; https://pic.downk.cc/item/5ece679ec2a9a83be5dcd43b.png&quot; alt=&quot;1&quot; width=&quot;600&quot; /&gt;
+
+&lt;hr&gt;
+&lt;p&gt;When I was an assistant professor, I felt constantly overwhelmed. I had classes to teach, relationships with new colleagues to navigate, a lab group to assemble, and an infant at home—not to mention research to conduct and papers to publish. To get ahead, I took on any opportunities that were offered, including membership on various editorial boards and professional committees. Despite working like a madman, my productivity as measured by paper output was meager. I simply could not find time in my day for undistracted writing. And when I did find the time after an extended stretch away from writing, the warm-up period to get back into the paper was often long, further slowing my progress.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;“I wake up early, make an espresso, and write until I&amp;#39;m spent.”&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Research" scheme="http://yoursite.com/tags/Research/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About Traveling</title>
+    <link href="http://yoursite.com/2018/11/21/About-Traveling/"/>
+    <id>http://yoursite.com/2018/11/21/About-Traveling/</id>
+    <published>2018-11-20T16:17:37.000Z</published>
+    <updated>2020-05-27T13:31:30.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;A-Trip-Without-Plan&quot;&gt;&lt;a href=&quot;#A-Trip-Without-Plan&quot; class=&quot;headerlink&quot; title=&quot;A Trip Without Plan&quot;&gt;&lt;/a&gt;A Trip Without
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+    
+      <category term="Travel" scheme="http://yoursite.com/tags/Travel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Four Golden Lessons</title>
+    <link href="http://yoursite.com/2018/09/20/lessons/"/>
+    <id>http://yoursite.com/2018/09/20/lessons/</id>
+    <published>2018-09-20T14:44:08.000Z</published>
+    <updated>2020-04-20T15:04:10.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot; https://pic.downk.cc/item/5e9db769c2a9a83be5c98728.jpg&quot; alt=&quot;avatar&quot; width=&quot;300&quot; /&gt; 
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;No one knows everything, and you don’t have to&lt;/li&gt;
+&lt;li&gt;Go for the messes - that’s where the action is. &lt;/li&gt;
+&lt;li&gt;Forgive yourself for wasting time . &lt;/li&gt;
+&lt;li&gt;Learn something about the history of science, or at a minimum the history of your own branch of science. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+    
+      <category term="Research" scheme="http://yoursite.com/tags/Research/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About Water Team</title>
+    <link href="http://yoursite.com/2018/03/20/About-RoboCup/"/>
+    <id>http://yoursite.com/2018/03/20/About-RoboCup/</id>
+    <published>2018-03-20T05:31:01.000Z</published>
+    <updated>2020-03-24T16:09:04.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot; https://pic.downk.cc/item/5e784c3a5c56091129726e21.jpg&quot; alt=&quot;avatar&quot; width=&quot;200&quot; /&gt;
+
+&lt;h1 id=&quot;Our-Team&quot;&gt;&lt;a href=&quot;#Our-Team&quot; class=&quot;headerlink&quot; title=&quot;Our Team&quot;&gt;&lt;/a&gt;Our Team&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Team Water is a Middle Size League Team of Beijing Information Science &amp;amp; Technology University. The team was founded in 2003.Water has participated in the China Open from 2006 to 2019, World Championships from 2010 to 2019. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;Our-Dream&quot;&gt;&lt;a href=&quot;#Our-Dream&quot; class=&quot;headerlink&quot; title=&quot;Our Dream&quot;&gt;&lt;/a&gt;Our Dream&lt;/h1&gt;&lt;p&gt;We proposed that the ultimate goal of the RoboCup Initiative to be stated as follows:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;By the middle of the 21st century, a team of fully autonomous humanoid robot soccer players shall win a soccer game, complying with the official rules of FIFA, against the winner of the most recent World Cup.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We propose that this goal will be one of the grand challenges shared by the robotics and AI communities for the next 50 years. This goal may sound overly ambitious given the state of the art of technology today. Nevertheless, we believe it is important that such a long-range goal should be set and pursued. It took only 50 years from the Wright Brothers’ first aircraft to the Apollo mission, to send a man to the moon and safely return him to the earth. It also took only 50 years, from the invention of the digital computer to Deep Blue, which beat the human world champion in chess. Building a humanoid soccer player requires an equally long period and extensive efforts of a broad range of researchers, and the goal will not be met in the near future.&lt;br&gt;&lt;img src=&quot; https://pic.downk.cc/item/5e7a29ee9dbe9d88c51dcac2.jpg&quot; alt=&quot;avatar&quot; width=&quot;600&quot; /&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Research" scheme="http://yoursite.com/tags/Research/"/>
+    
+  </entry>
+  
+</feed>
