@@ -46,13 +46,13 @@
     <link href="http://yoursite.com/2020/03/22/About%20Me/"/>
     <id>http://yoursite.com/2020/03/22/About%20Me/</id>
     <published>2020-03-22T10:00:45.000Z</published>
-    <updated>2021-05-12T08:39:09.000Z</updated>
+    <updated>2021-07-29T12:39:54.493Z</updated>
     
     <summary type="html">
     
       &lt;img src=&quot; https://pic.downk.cc/item/5e785acc5c5609112980542d.jpg&quot; alt=&quot;avatar&quot; width=&quot;300&quot; /&gt;
 
-&lt;p&gt;I am Fan Wang, a master student majoring in Nano materials and technology from &lt;a href=&quot;http://www.nanoscience.gatech.edu&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;professor Zhonglin Wang’s nanoscience group&lt;/a&gt;, &lt;a href=&quot;http://www.binn.cas.cn&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Beijing Institute of Nanoenergy and Nanosystems&lt;/a&gt;  at the University of Chinese Academy of Sciences in China. &lt;/p&gt;
+&lt;p&gt;I am Fan Wang,  an incoming Phd student at Max Planck for Intelligent Systems and Zurich ETH. Graduation from Beijing Institute of Nanoenergy and Nanosystems at the Chinese Academy of Sciences. My research focuses on nanotechnology and bioelectronics for energy, sensing, and therapy applications in the form of smart textiles, wearables, and body area networks.&lt;/p&gt;
     
     </summary>
     
@@ -102,31 +102,6 @@
   </entry>
   
   <entry>
-    <title>DIY NO.1 How to make Ultrasonic levitation instrument</title>
-    <link href="http://yoursite.com/2020/03/20/DIY-No.1-How%20to%20make%20Ultrasonic%20levitation%20instrument/"/>
-    <id>http://yoursite.com/2020/03/20/DIY-No.1-How%20to%20make%20Ultrasonic%20levitation%20instrument/</id>
-    <published>2020-03-20T05:31:01.000Z</published>
-    <updated>2021-05-12T08:21:31.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;em&gt;In
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="Research" scheme="http://yoursite.com/tags/Research/"/>
-    
-  </entry>
-  
-  <entry>
     <title>DIY NO.2 How to make cheap low-costFlexible circuit printing system</title>
     <link href="http://yoursite.com/2020/03/20/DIY-No.2-How%20to%20make%20cheap%20low-costFlexible%20circuit%20printing%20system/"/>
     <id>http://yoursite.com/2020/03/20/DIY-No.2-How%20to%20make%20cheap%20low-costFlexible%20circuit%20printing%20system/</id>
@@ -140,6 +115,31 @@
         
         
           &lt;p&gt;&lt;strong&gt;IN
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Research" scheme="http://yoursite.com/tags/Research/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DIY NO.1 How to make Ultrasonic levitation instrument</title>
+    <link href="http://yoursite.com/2020/03/20/DIY-No.1-How%20to%20make%20Ultrasonic%20levitation%20instrument/"/>
+    <id>http://yoursite.com/2020/03/20/DIY-No.1-How%20to%20make%20Ultrasonic%20levitation%20instrument/</id>
+    <published>2020-03-20T05:31:01.000Z</published>
+    <updated>2021-05-12T08:21:31.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;em&gt;In
         
       
     
@@ -225,9 +225,9 @@
     
     
     
-      <category term="Research" scheme="http://yoursite.com/tags/Research/"/>
-    
       <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+    
+      <category term="Research" scheme="http://yoursite.com/tags/Research/"/>
     
   </entry>
   
